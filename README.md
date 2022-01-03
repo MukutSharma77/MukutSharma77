@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MukutSharma77
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data sscience
+- 🌱 I’m currently learning Data science
+- Here are some repositries of my data science practice
 
 
 <!---
