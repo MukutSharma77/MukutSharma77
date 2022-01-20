@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MukutSharma77
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data science
+- 👀 I am currently doing a internship in RedTech as a Junior Data Scientist
+
 - Here are some repositries of my data science practice
 
 
