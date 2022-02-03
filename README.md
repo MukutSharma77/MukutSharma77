@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MukutSharma77
-- 👀 I am currently doing a internship in RedTech as a Junior Data Scientist
 
 - Here are some repositries of my data science practice
 
